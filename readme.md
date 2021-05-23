@@ -27,6 +27,9 @@
 Simplifed sketch for wiring and circuit design
 ![](./Assets%20and%20resources/wiring.png)
 
+## Design sketchs and process
+![](./Assets%20and%20resources/process.jpeg)
+[(Sketches here)](./Assets%20and%20resources/design-logbook.pdf)
 ## Trimmed logic flow
 ![](./Assets%20and%20resources/logicflow.jpg)
 
