@@ -9,6 +9,8 @@
 - 1 x 5V power supply
 - 200 feets+ wire
 ### Single bubble unit component list
+The unit is designed with the ease of assemble and installation in mind. For example the legs have room for magnets for easily snapping on metal surface with adjustability; The Cloth-fitting ring allow quick replacement only for the needed parts.
+
 - 3D printed housing
 ![](./Assets%20and%20resources/3dmerged.png)
   - Base unit [(STL file here)](/Assets%20and%20resources/3dprint/base_wleg_0512f.stl)
